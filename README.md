@@ -1,4 +1,6 @@
 # DataProcessing_Visualization
 
 
-This project has the python code for pre-processing and cleaning the adeventure work bike used for different Machine learning alogrithm
+The Adventure work bike, is a biking company that rents bikes in different cities; 
+In this project we will try to explore the data using different visualization techniques. The data is provided in a form of cvs files. Firsdt steps involves cleaning and data munging
+]\
